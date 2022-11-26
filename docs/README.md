@@ -6,6 +6,6 @@
 ![IMG-20221126-WA0005](https://user-images.githubusercontent.com/90828938/204095033-deb3d6b7-318e-4607-98a4-36f861504733.jpg)
 
 # Legal  
-<p align="center"><span style="font-size:larger;">© 2022 Casper Ong, </n> CIH</span></p>
+<p align="center"><span style="font-size:larger;">© 2022 Casper Ong</span></p>
 
 <p align="center"><span style="font-size:larger;">All rights reserved. Any images used on this site are property of their respective owners.</span></p>
